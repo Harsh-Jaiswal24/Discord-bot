@@ -1,0 +1,6 @@
+for furture building : 
+
+https://discord.com/developers/applications/1373599931394162779/oauth2
+
+
+https://discord.js.org/docs/packages/discord.js/14.19.3
